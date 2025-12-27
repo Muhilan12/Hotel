@@ -1,4 +1,5 @@
 
+
 run command : python manage.py runserver
 
 Admin Login : Username= admin
@@ -19,4 +20,5 @@ or
 3. Admin Login 
     - show Total Orders
     - pending order , completed order
+
     - Hours based Graph
